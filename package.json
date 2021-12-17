@@ -1,0 +1,37 @@
+{
+    "name": "vscode-javascript-extension-pack",
+    "version": "0.0.1",
+    "publisher": "p42ai",
+    "displayName": "JavaScript Essentials",
+    "description": "Essential JavaScript extensions for 2022",
+    "icon": "images/logo.png",
+    "galleryBanner": {
+      "color": "#ffe04b",
+      "theme": "light"
+    },
+    "categories": [
+      "Extension Packs"
+    ],
+    "keywords": [
+      "node",
+      "javascript",
+      "eslint",
+      "prettier"
+    ],
+    "engines": {
+      "vscode": "^1.59.0"
+    },
+    "extensionDependencies": [
+      "dbaeumer.vscode-eslint",
+      "esbenp.prettier-vscode"
+    ],
+    "homepage": "https://github.com/p42ai/vscode-js-extension-pack",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/p42ai/vscode-js-extension-pack.git"
+    },
+    "bugs": {
+      "url": "https://github.com/p42ai/vscode-js-extension-pack/issues"
+    },
+    "license": "SEE LICENSE IN LICENSE"
+  }
