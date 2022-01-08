@@ -1,12 +1,12 @@
 {
     "name": "vscode-javascript-ide-extension-pack",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "publisher": "p42ai",
     "displayName": "JavaScript IDE Extension Pack",
     "description": "Extension pack to turn VS Code into a full-blown JavaScript IDE",
-    "icon-todo": "images/logo.png",
+    "icon": "logo.png",
     "galleryBanner": {
-      "color": "#ffe04b",
+      "color": "#f0db4f",
       "theme": "light"
     },
     "categories": [
@@ -42,11 +42,6 @@
     },
     "devDependencies": {
       "vsce": "^2.6.3"
-    },
-    "capabilities": {
-      "virtualWorkspaces": {
-        "supported": false
-      }
     },
     "extensionPack": [
       "dbaeumer.vscode-eslint",
