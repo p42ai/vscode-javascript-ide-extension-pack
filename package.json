@@ -10,6 +10,7 @@
       "theme": "light"
     },
     "categories": [
+      "Programming Languages",
       "Extension Packs"
     ],
     "keywords": [
@@ -26,6 +27,11 @@
     },
     "devDependencies": {
       "vsce": "^2.6.3"
+    },
+    "capabilities": {
+      "virtualWorkspaces": {
+        "supported": false
+      }
     },
     "extensionDependencies": [
       "dbaeumer.vscode-eslint",
@@ -45,13 +51,12 @@
       "eg2.vscode-npm-script",
       "christian-kohler.npm-intellisense",
       "p42ai.refactor",
-      "jakob101.RelativePath",
       "burkeholland.simple-react-snippets",
       "simonsiefke.svg-preview",
       "rangav.vscode-thunder-client",
       "runtfuggly.todo-tree",
       "VisualStudioExptTeam.vscodeintellicode",
-      "jrebocho.vscode-random"
+      "christian-kohler.path-intellisense"
     ],
     "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {
