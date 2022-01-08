@@ -16,8 +16,23 @@
     "keywords": [
       "node",
       "javascript",
+      "typescript",
+      "react",
+      "ide",
+      "integrated",
+      "development",
+      "environment",
+      "programming",
       "eslint",
-      "prettier"
+      "prettier",
+      "type ahead",
+      "intellisense",
+      "refactor",
+      "refactoring",
+      "fix",
+      "autocomplete",
+      "todo",
+      "bookmark"
     ],
     "engines": {
       "vscode": "^1.59.0"
@@ -42,7 +57,6 @@
       "streetsidesoftware.code-spell-checker",
       "adpyke.codesnap",
       "cweijan.vscode-database-client2",
-      "ms-azuretools.vscode-docker",
       "usernamehw.errorlens",
       "eamodio.gitlens",
       "xabikos.JavaScriptSnippets",
@@ -54,7 +68,6 @@
       "burkeholland.simple-react-snippets",
       "simonsiefke.svg-preview",
       "rangav.vscode-thunder-client",
-      "runtfuggly.todo-tree",
       "VisualStudioExptTeam.vscodeintellicode",
       "christian-kohler.path-intellisense",
       "tamasfe.even-better-toml",
