@@ -21,7 +21,6 @@ Note: It can take a few minutes to install the extension pack.
 1. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 1. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 1. [Simple React Snippets](https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets)
-1. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
 ## Comments, TODOs, and Bookmarks
 1. [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
@@ -30,12 +29,13 @@ Note: It can take a few minutes to install the extension pack.
 
 ## Version Control
 1. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+1. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
 
 ## File Types
 1. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - for `package.json` files
 1. [SVG Preview](https://marketplace.visualstudio.com/items?itemName=simonsiefke.svg-preview) - for `.svg` files
 1. [Json Editor](https://marketplace.visualstudio.com/items?itemName=nickdemayo.vscode-json-editor) - for `.json` files
-1. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) - for `.md` files
+1. [Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - for `.md` files
 1. [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - for `.toml` files
 
 ## Database & REST API Clients
@@ -44,3 +44,4 @@ Note: It can take a few minutes to install the extension pack.
 
 ## Other
 1. [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - take screenshots of your code
+1. [Node Readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - open READMEs for Node modules in VS Code
