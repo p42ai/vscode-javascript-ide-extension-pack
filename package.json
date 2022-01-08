@@ -1,13 +1,13 @@
 {
     "name": "vscode-javascript-ide-extension-pack",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "publisher": "p42ai",
     "displayName": "JavaScript IDE Extension Pack",
     "description": "Extension pack to turn VS Code into a full-blown JavaScript IDE",
     "icon": "logo.png",
     "galleryBanner": {
-      "color": "#f0db4f",
-      "theme": "light"
+      "color": "#323330",
+      "theme": "dark"
     },
     "categories": [
       "Programming Languages",
