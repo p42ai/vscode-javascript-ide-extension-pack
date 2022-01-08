@@ -1,9 +1,9 @@
 {
-    "name": "vscode-javascript-extension-pack",
+    "name": "vscode-javascript-ide-extension-pack",
     "version": "0.0.1",
     "publisher": "p42ai",
-    "displayName": "JavaScript Essentials",
-    "description": "Essential JavaScript extensions for 2022",
+    "displayName": "JavaScript IDE",
+    "description": "Extension pack to turn VS Code into a full-blown JavaScript IDE",
     "icon": "images/logo.png",
     "galleryBanner": {
       "color": "#ffe04b",
@@ -23,15 +23,37 @@
     },
     "extensionDependencies": [
       "dbaeumer.vscode-eslint",
-      "esbenp.prettier-vscode"
+      "esbenp.prettier-vscode",
+      "formulahendry.auto-rename-tag",
+      "aaron-bond.better-comments",
+      "alefragnani.bookmarks",
+      "streetsidesoftware.code-spell-checker",
+      "adpyke.codesnap",
+      "cweijan.vscode-database-client2",
+      "ms-azuretools.vscode-docker",
+      "usernamehw.errorlens",
+      "eamodio.gitlens",
+      "xabikos.JavaScriptSnippets",
+      "nickdemayo.vscode-json-editor",
+      "shd101wyy.markdown-preview-enhanced",
+      "eg2.vscode-npm-script",
+      "christian-kohler.npm-intellisense",
+      "p42ai.refactor",
+      "jakob101.RelativePath",
+      "burkeholland.simple-react-snippets",
+      "simonsiefke.svg-preview",
+      "rangav.vscode-thunder-client",
+      "runtfuggly.todo-tree",
+      "VisualStudioExptTeam.vscodeintellicode",
+      "jrebocho.vscode-random"
     ],
-    "homepage": "https://github.com/p42ai/vscode-js-extension-pack",
+    "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {
       "type": "git",
-      "url": "https://github.com/p42ai/vscode-js-extension-pack.git"
+      "url": "https://github.com/p42ai/vscode-javascript-ide-extension-pack.git"
     },
     "bugs": {
-      "url": "https://github.com/p42ai/vscode-js-extension-pack/issues"
+      "url": "https://github.com/p42ai/vscode-javascript-ide-extension-pack/issues"
     },
-    "license": "SEE LICENSE IN LICENSE"
+    "license": "MIT"
   }
