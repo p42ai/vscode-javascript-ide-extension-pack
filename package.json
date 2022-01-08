@@ -1,6 +1,6 @@
 {
     "name": "vscode-javascript-ide-extension-pack",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "p42ai",
     "displayName": "JavaScript IDE Extension Pack",
     "description": "Extension pack to turn VS Code into a full-blown JavaScript IDE",
@@ -56,7 +56,8 @@
       "rangav.vscode-thunder-client",
       "runtfuggly.todo-tree",
       "VisualStudioExptTeam.vscodeintellicode",
-      "christian-kohler.path-intellisense"
+      "christian-kohler.path-intellisense",
+      "tamasfe.even-better-toml"
     ],
     "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {
