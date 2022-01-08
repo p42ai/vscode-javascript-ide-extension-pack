@@ -1,5 +1,5 @@
 # JavaScript IDE Extension Pack
-Turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown JavaScript IDE. 
+Turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown JavaScript IDE. Without researching thousands of extensions.
 
 Note: It can take a few minutes to install the extension pack.
 
