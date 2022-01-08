@@ -4,7 +4,7 @@
     "publisher": "p42ai",
     "displayName": "JavaScript IDE",
     "description": "Extension pack to turn VS Code into a full-blown JavaScript IDE",
-    "icon": "images/logo.png",
+    "icon-todo": "images/logo.png",
     "galleryBanner": {
       "color": "#ffe04b",
       "theme": "light"
@@ -20,6 +20,12 @@
     ],
     "engines": {
       "vscode": "^1.59.0"
+    },
+    "scripts": {
+      "package": "vsce package --yarn"
+    },
+    "devDependencies": {
+      "vsce": "^2.6.3"
     },
     "extensionDependencies": [
       "dbaeumer.vscode-eslint",
