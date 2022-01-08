@@ -57,7 +57,8 @@
       "runtfuggly.todo-tree",
       "VisualStudioExptTeam.vscodeintellicode",
       "christian-kohler.path-intellisense",
-      "tamasfe.even-better-toml"
+      "tamasfe.even-better-toml",
+      "gruntfuggly.todo-tree"
     ],
     "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {
