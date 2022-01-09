@@ -28,6 +28,12 @@ Note: It can take a few minutes to install the extension pack.
 1. [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree)
 1. [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks)
 
+## Testing
+1. [Test Explorer UI](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-test-explorer)
+1. [Test Explorer Status Bar](https://marketplace.visualstudio.com/items?itemName=connorshea.vscode-test-explorer-status-bar)
+1. [Test Explorer: Mocha Adapter](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-mocha-test-adapter)
+1. [Test Explorer: Jest Adapter](https://marketplace.visualstudio.com/items?itemName=kavod-io.vscode-jest-test-adapter)
+
 ## Version Control
 1. [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 1. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
