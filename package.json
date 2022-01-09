@@ -1,6 +1,6 @@
 {
     "name": "vscode-javascript-ide-extension-pack",
-    "version": "0.2.2",
+    "version": "0.2.3",
     "publisher": "p42ai",
     "displayName": "JavaScript IDE Extension Pack",
     "description": "Turn VS Code into a full-blown JavaScript IDE with these 20+ extensions.",
@@ -49,6 +49,7 @@
       "streetsidesoftware.code-spell-checker",
       "usernamehw.errorlens",
       "dsznajder.es7-react-js-snippets",
+      "wmaurer.change-case",
       "p42ai.refactor",
       "bengreenier.vscode-node-readme",
       "jrebocho.vscode-random",

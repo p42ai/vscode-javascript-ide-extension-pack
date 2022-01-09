@@ -14,6 +14,7 @@ Note: It can take a few minutes to install the extension pack.
 
 ## Refactoring and Code Actions
 1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - 60 refactorings, quick fixes and code actions
+1. [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - change the case of words quickly
 
 ## Type-Ahead, Code Completion & Snippets
 1. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
