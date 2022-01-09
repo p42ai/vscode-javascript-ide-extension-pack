@@ -1,6 +1,6 @@
 {
     "name": "vscode-javascript-ide-extension-pack",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "publisher": "p42ai",
     "displayName": "JavaScript IDE Extension Pack",
     "description": "Turn VS Code into a full-blown JavaScript IDE with these 20+ extensions.",
@@ -47,12 +47,9 @@
       "dbaeumer.vscode-eslint",
       "esbenp.prettier-vscode",
       "streetsidesoftware.code-spell-checker",
-      "adpyke.codesnap",
-      "cweijan.vscode-database-client2",
       "usernamehw.errorlens",
       "dsznajder.es7-react-js-snippets",
       "p42ai.refactor",
-      "rangav.vscode-thunder-client",
       "bengreenier.vscode-node-readme",
       "jrebocho.vscode-random",
       "simonsiefke.svg-preview",
@@ -66,7 +63,11 @@
       "hbenl.vscode-mocha-test-adapter",
       "kavod-io.vscode-jest-test-adapter",
       "eamodio.gitlens",
-      "mhutchie.git-graph"
+      "mhutchie.git-graph",
+      "cweijan.vscode-database-client2",
+      "rangav.vscode-thunder-client",
+      "ms-azuretools.vscode-docker",
+      "adpyke.codesnap"
     ],
     "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {

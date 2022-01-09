@@ -42,6 +42,7 @@ Note: It can take a few minutes to install the extension pack.
 ## Database & REST API Clients
 1. [Database Client](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-database-client2) - work with MySQL, PostgreSQL, SQLite, and others DBs.
 1. [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) - work with REST APIs
+1. [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) - work with Docker
 
 ## Other
 1. [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - take screenshots of your code
