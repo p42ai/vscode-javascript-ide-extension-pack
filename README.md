@@ -16,7 +16,6 @@ Note: It can take a few minutes to install the extension pack.
 1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - 60 refactorings, quick fixes and code actions
 
 ## Type-Ahead, Code Completion & Snippets
-1. [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 1. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 1. [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 1. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
