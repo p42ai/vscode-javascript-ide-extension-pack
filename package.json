@@ -53,9 +53,7 @@
       "adpyke.codesnap",
       "cweijan.vscode-database-client2",
       "usernamehw.errorlens",
-      "eamodio.gitlens",
       "xabikos.JavaScriptSnippets",
-      "nickdemayo.vscode-json-editor",
       "yzhang.markdown-all-in-one",
       "eg2.vscode-npm-script",
       "christian-kohler.npm-intellisense",
@@ -68,13 +66,14 @@
       "tamasfe.even-better-toml",
       "gruntfuggly.todo-tree",
       "bengreenier.vscode-node-readme",
-      "mhutchie.git-graph",
       "jrebocho.vscode-random",
       "yshd101wyy.markdown-preview-enhanced",
       "hbenl.vscode-test-explorer",
       "connorshea.vscode-test-explorer-status-bar",
       "hbenl.vscode-mocha-test-adapter",
-      "kavod-io.vscode-jest-test-adapter"
+      "kavod-io.vscode-jest-test-adapter",
+      "eamodio.gitlens",
+      "mhutchie.git-graph"
     ],
     "homepage": "https://github.com/p42ai/vscode-javascript-ide-extension-pack",
     "repository": {
