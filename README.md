@@ -17,6 +17,7 @@ Note: It can take a few minutes to install the extension pack.
 1. [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - change the case of words quickly
 
 ## Type-Ahead, Code Completion & Snippets
+1. [Emmet Live](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
 1. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 1. [vscode-random](https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random) - generate random data like names, phone numbers etc. for testing
 
@@ -47,4 +48,3 @@ Note: It can take a few minutes to install the extension pack.
 
 ## Other
 1. [Code Snap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap) - take screenshots of your code
-1. [Node Readme](https://marketplace.visualstudio.com/items?itemName=bengreenier.vscode-node-readme) - open READMEs for Node modules in VS Code
