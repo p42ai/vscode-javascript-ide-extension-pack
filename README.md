@@ -42,7 +42,6 @@ Note: It can take a few minutes to install the extension pack.
 1. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - for `package.json` files
 1. [SVG Preview](https://marketplace.visualstudio.com/items?itemName=simonsiefke.svg-preview) - for `.svg` files
 1. [Markdown All In One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - for `.md` files
-1. [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=yshd101wyy.markdown-preview-enhanced) - for `.md` files
 1. [Even Better TOML](https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml) - for `.toml` files
 
 ## Database & REST API Clients
