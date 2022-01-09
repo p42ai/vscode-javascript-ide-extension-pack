@@ -16,7 +16,7 @@ Note: It can take a few minutes to install the extension pack.
 1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - 60 refactorings, quick fixes and code actions
 
 ## Type-Ahead, Code Completion & Snippets
-1. [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+1. [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 1. [vscode-random](https://marketplace.visualstudio.com/items?itemName=jrebocho.vscode-random) - generate random data like names, phone numbers etc. for testing
 
 ## Comments, TODOs, and Bookmarks
