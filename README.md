@@ -1,9 +1,7 @@
 # JavaScript IDE Extension Pack
-Turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown JavaScript IDE. Without researching thousands of extensions.
+25 extensions that turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown JavaScript IDE. [Learn more in this blog post](https://p42.ai/blog/2022-01-10/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions).
 
 *Note: It can take a few minutes to install the extension pack.*
-
-[Learn more in this blog post](https://p42.ai/blog/2022-01-10/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions)
 
 ![JavaScript IDE Extension Pack](https://raw.githubusercontent.com/p42ai/vscode-javascript-ide-extension-pack/main/screenshot.png)
 
