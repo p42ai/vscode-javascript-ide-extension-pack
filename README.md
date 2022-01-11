@@ -5,7 +5,7 @@ Turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown Java
 
 [Learn more in this blog post](https://p42.ai/blog/2022-01-10/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions)
 
-![JavaScript IDE Extension Pack]()
+![JavaScript IDE Extension Pack](https://raw.githubusercontent.com/p42ai/vscode-javascript-ide-extension-pack/main/screenshot.png)
 
 ## Code Completion and Snippets
 1. [Emmet Live](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
