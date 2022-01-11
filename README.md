@@ -1,7 +1,11 @@
 # JavaScript IDE Extension Pack
 Turn [Visual Studio Code](https://code.visualstudio.com/) into a full-blown JavaScript IDE. Without researching thousands of extensions.
 
-Note: It can take a few minutes to install the extension pack.
+*Note: It can take a few minutes to install the extension pack.*
+
+[Learn more in this blog post](https://p42.ai/blog/2022-01-10/turn-visual-studio-code-into-a-top-notch-javascript-ide-with-these-25-extensions)
+
+![JavaScript IDE Extension Pack]()
 
 ## Code Completion and Snippets
 1. [Emmet Live](https://marketplace.visualstudio.com/items?itemName=ysemeniuk.emmet-live)
@@ -11,13 +15,12 @@ Note: It can take a few minutes to install the extension pack.
 ## Linting, Spell Checking, and Hints
 1. [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - the JS linter
 1. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - correct any typos and spelling issues quickly
-1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - refactoring hints
 1. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) - highlights errors, warnings and information messages in the editor
 
 ## Formatting, Code Actions, and Refactoring
 1. [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - format your code on save
 1. [Change Case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - change the case of words quickly
-1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - 60 refactorings, quick fixes and code actions
+1. [JavaScript Assistant](https://marketplace.visualstudio.com/items?itemName=p42ai.refactor) - 60+ refactorings, quick fixes and code actions
 
 ## Editor Support for Additional File Types
 1. [npm](https://marketplace.visualstudio.com/items?itemName=eg2.vscode-npm-script) - for `package.json` files
